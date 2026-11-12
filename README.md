@@ -48,6 +48,6 @@ Full-stack web, desktop, and mobile applications.
 
 ### 📫 Contact
 
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+- 📧 awadanthony33@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/anthony-awad12)
 - 🌐 Portfolio — *coming soon*
